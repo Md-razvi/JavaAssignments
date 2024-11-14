@@ -1,6 +1,4 @@
-
-
-
+//Main Class
 public class Ass1{
     public static void main(String[] args){
       
@@ -12,7 +10,7 @@ public class Ass1{
         int result=obj1.Add(12, 15);
         System.out.println("The result is "+result);    
     }
-        
+      
     
     
 }
